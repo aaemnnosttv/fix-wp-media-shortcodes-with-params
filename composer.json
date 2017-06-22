@@ -1,0 +1,15 @@
+{
+    "name": "aaemnnosttv/fix-wp-media-shortcodes-with-params",
+    "description": "Fixes WordPress media shortcodes used for embeds that have parameters in the src.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evan Mattson",
+            "email": "me@aaemnnost.tv"
+        }
+    ]
+}
